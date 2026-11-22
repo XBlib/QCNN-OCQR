@@ -1,0 +1,21 @@
+{
+  "run": 1,
+  "architecture": "cifar10_3class_five_functional_qkernels_ocqr_overlap_consistency_context_difference_v1",
+  "protocol": "train1920_unused_train_val300_test300_final_only",
+  "epochs_trained": 37,
+  "best_val_epoch": 22,
+  "best_val_loss": 0.4904135131835938,
+  "best_val_acc_percent": 81.33333333333333,
+  "test_acc_percent": 83.66666666666667,
+  "test_loss": 0.4326231892903646,
+  "test_count": 300,
+  "train_eval_acc_percent": 90.88541666666667,
+  "train_eval_loss": 0.283167631427447,
+  "train_test_accuracy_gap_pp": 7.21875,
+  "optimizer": "Adam",
+  "weight_decay": 0.0001,
+  "run_seconds": 19312.016065835953,
+  "checkpoint": "Models_V1/model_best.pt",
+  "model_selection": "validation_loss",
+  "test_evaluated_only_after_model_selection": true
+}

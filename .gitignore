@@ -1,0 +1,5 @@
+CIFAR-10/
+__pycache__/
+*.pyc
+*.pth
+*.pt

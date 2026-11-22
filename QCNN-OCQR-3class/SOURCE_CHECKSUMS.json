@@ -1,0 +1,17 @@
+{
+  "note": "original_files_sha256 记录清理前冻结源码的哈希；files_sha256 记录当前源码的哈希。清理后各分类仅保留实际使用的量子线路。",
+  "files_sha256": {
+    "Circuit.py": "df8bfee4d1d7ef004238454b925993380759f093dbefb7783a147b14ced09be0",
+    "OCQRConvolutionLayer.py": "9c3c97eba19d30c4fa56788d4ddd5c140cfca8ecdc5bfefa1a9e81cb486a9729",
+    "Tool.py": "870e2dc2d35de1d5dbb8bcd67ba410eaf76be49674cf6460070a2e84822ba48f",
+    "generalization.py": "b8eab1ca29f7e34066b41e97d00b72de1a8b40bb2aad51de118c0b2f4d96f295",
+    "main_OCQR.py": "3cdd100adc9336b9d7846504bce654a9a62b802849b59e6591a28e8162913323"
+  },
+  "original_files_sha256": {
+    "Circuit.py": "f79ab04aefdaf396111ddbe69ddffd59e9643a2a940efa2efcc4cdea600227d6",
+    "OCQRConvolutionLayer.py": "34b1c1ff440f94382a7e68a009ec0a5bea645691c06458620b39a85c54d71dd4",
+    "Tool.py": "732fd7259cba8747d3faa6ddbfc2197da5f706f01e7ca03d5743d54398a92bd0",
+    "generalization.py": "39840c22154ea31a55c47fe3498c8afd3a2509162335d9ce33eacb0492d3a2ac",
+    "main_OCQR.py": "44f82a72ef1854819368b5bc2daa6a225316593a2f18d9861f22125db4c201f5"
+  }
+}
